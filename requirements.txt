@@ -5,6 +5,6 @@ datetime
 telepot
 
 
-webbrowser
+
 demjson
 pynotify
