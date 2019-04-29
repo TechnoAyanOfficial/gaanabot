@@ -4,7 +4,7 @@ requests
 datetime
 telepot
 
-
+requests==2.12.4
 
 demjson
 pynotify
